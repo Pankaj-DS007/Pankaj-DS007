@@ -1,4 +1,4 @@
-About me
+# Hi 👋🏻 I'm Pankaj Khatri a Data folk
 - 👀 I’m interested in Unlocking the power of data to tell compelling stories through analytics
 - 🌱 I’m currently learning: Diving into advanced statistical analytics
 - 💞️ I’m looking to collaborate on data-driven projects that leave an impact on business and the community
